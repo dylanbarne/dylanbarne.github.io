@@ -33,17 +33,7 @@ nav {
 
 .btn-red {
     background-color: rgba(255,97,56,1.00);
-    color: rgba(255,255,255,1.00);
-    padding-top: 13px;
-    padding-bottom: 13px;
-    padding-left: 40px;
-    padding-right: 40px;
-    text-decoration: none;
-    margin-right: 6px;
 }
-.contact-us-btns {
-}
-
 .btn-green {
     background-color: rgba(0,163,136,1.00);
     padding-top: 13px;
@@ -123,10 +113,6 @@ h2 {
 .clearfloat {
     clear: both;
 }
-.contact-us-details {
-    margin-top: -49px;
-}
-
 
 
 .float-right {
@@ -189,36 +175,6 @@ hr {
 main .hero-content .btn-green {
     margin-left: 10px;
 }
-.container main div {
-}
-.about-us-header {
-    padding-left: 35%;
-
-}
-.index_hr {
-
-}
-.about_us_hr {
-    margin-left: 35px;
-    margin-right: 35px;
-}
-.about-us-paragraph {
-    font-family: average;
-    font-style: normal;
-    font-weight: 400;
-    font-size: xx-large;
-    color: rgba(255,255,255,1.00);
-    text-align: center;
-    line-height: 52px;
-}
-.contact-us-heading {
-}
-
-
-
-
-
-
 
 
 
@@ -401,5 +357,5 @@ hero-content {
 }
 .text-white- {
 }
-.contact-us-details {
+.btn-grenn {
 }
